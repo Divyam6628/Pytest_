@@ -1,0 +1,5 @@
+2024-11-21 11:40:48,036 : INFO : test_e2e : All the cards are available now 
+2024-11-21 11:40:48,162 : INFO : test_e2e : Blackberry has been added to the cart 
+2024-11-21 11:40:58,849 : INFO : test_e2e : Choise of country is selected 
+2024-11-21 11:40:59,187 : INFO : test_e2e : The Message recieved is ×
+Success! Thank you! Your order will be delivered in next few weeks :-). 
